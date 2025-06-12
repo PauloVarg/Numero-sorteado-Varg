@@ -10,7 +10,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial() {
-    exibirTextoNaTela('h1', 'Jogo do número secreto do Vlad');
+    exibirTextoNaTela('h1', 'Jogo do número secreto do Paulo Vlad');
     exibirTextoNaTela('p', 'Escolha um número entre 1 e 20');
 }
 
